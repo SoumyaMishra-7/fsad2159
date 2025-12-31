@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/notes"; // backend URL
+const API_URL = "https://fsad2159.onrender.com/api/notes"; // backend URL
 
 // GET all notes
 export const getNotes = async () => {
